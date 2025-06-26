@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td>Git & GitHub, Postman, VS Code, Eclipse IDE, Android Studio , Pytorch, Qiskit,NPL, TensorFlow </td>
+    <td>Git & GitHub, Postman, VS Code, Eclipse IDE, Android Studio , Pytorch, Qiskit, NLP, TensorFlow </td>
   </tr>
 </table>
 
